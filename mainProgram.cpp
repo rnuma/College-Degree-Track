@@ -3,7 +3,7 @@
 * Description: A program that helps track the progress of a Purdue undergraduate student in any
 * major by storing their progress for each semester in a binary file to view and modify. 
 * Author: Roan Numa
-* Languages: C / C++
+* Languages: C, C++
 ************************************************************************************************/
 
 #include <iostream>
